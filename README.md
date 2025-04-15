@@ -73,3 +73,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwaabeyrathna&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+### 🐍 Watch my contributions get eaten by a Snake!
+
+![snake gif](https://github.com/vishwaabeyrathna/vishwaabeyrathna/blob/output/github-contribution-grid-snake.svg)
