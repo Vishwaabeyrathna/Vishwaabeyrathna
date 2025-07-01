@@ -89,11 +89,6 @@
 ---
 
 
-
-<div align="center">
-  <img src="https://github.com/vishwaabeyrathna/vishwaabeyrathna/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</div>
-
 ---
 
 ## 🚀 Featured Projects
